@@ -1,0 +1,8 @@
+.key {
+  margin-top: 2px !important;
+}
+
+.key[size="2"] {
+  height: 95%;
+  padding-top: 90px;
+}

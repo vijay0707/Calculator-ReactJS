@@ -1,0 +1,10 @@
+.pad-container {
+  display: flex !important;
+  align-content: center;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  height: 220px;
+  position: relative;
+  /* background-color: aliceblue; */
+}
