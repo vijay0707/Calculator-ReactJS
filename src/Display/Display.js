@@ -8,7 +8,7 @@ const Display = (props) => {
       <input
         className="inputField"
         type="text"
-        placeholder="Enter"
+        placeholder="0"
         value={props.data}
       />
     </div>
