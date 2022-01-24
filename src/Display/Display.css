@@ -1,4 +1,7 @@
 .Display {
-  width: 380px;
-  height: 100px;
+  width: 400px;
+}
+
+.inputField {
+  caret-color: transparent;
 }

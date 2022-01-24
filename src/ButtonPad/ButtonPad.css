@@ -8,3 +8,10 @@
   position: relative;
   /* background-color: aliceblue; */
 }
+
+@media only screen and (max-width: 400px) {
+  .pad-container {
+    width: 40% important;
+    /* background-color: aliceblue; */
+  }
+}
